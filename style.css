@@ -17,3 +17,12 @@ h1 {
     border-radius: 25px;
     margin: auto;
 }
+
+
+input {
+    margin-left: 12%;
+}
+
+select{
+    margin-left: 3%;
+}
